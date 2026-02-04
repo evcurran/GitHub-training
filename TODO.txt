@@ -1,3 +1,4 @@
 - Do day one training
 - Edit todo file
 - have lunch
+- go home
